@@ -37,7 +37,7 @@
     "react-native-svg": "12.1.1",
     "react-native-web": "0.17.1",
     "react-native-webpack": "^0.1.1",
-    "react-navigation": "^4.4.4",
+    "react-navigation": "^5.0.0",
     "expo-linking": "~3.0.0"
   },
   "devDependencies": {
